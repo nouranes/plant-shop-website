@@ -7,6 +7,7 @@
 }
 .header{
     background-color: #809188ea;
+    /* background-color: #21583f1e;; */
     width: 100%;
     height: 60px;
     overflow: auto;
@@ -232,7 +233,7 @@ border-radius: 20px;
     top: 0;
     left: 0;
     opacity: 0;
-    background-color: #337a5be1;
+    background-color: #21583fc9;;
     
     z-index: -1;
     border-radius: 20px;
@@ -274,11 +275,13 @@ border-radius: 20px;
     height: 4px;
     margin: auto;
     background-color:#21583f;
-    margin-top: 0px;
+    margin-top: 4px;
+    margin-bottom: 30px;
 }
 .p3-gallary h2{
     text-align: center;
-    padding: 20px 0px;
+    /* padding: 20px 0px; */
+    padding-top: 20px;
 }
 
 .p3-parent1-gallary {
@@ -607,7 +610,7 @@ border-radius: 20px;
     width: 180;
     height: 35;
     /* margin-right: 8px; */
-    background-color: green;
+    background-color: #21583fc9;;
     color: white;
     border: 2px solid white;
     margin: 15px 0px;
@@ -616,7 +619,7 @@ border-radius: 20px;
 
 .p7-hm{
     display: inline-block;
-    border: 1px solid green;
+    border: 1px solid #21583fc9;;
     width: 100px;
     height: 100px;
     text-align: center;
@@ -653,7 +656,7 @@ border-radius: 20px;
     opacity: 0;
     transition: 0.5s;
     border-radius: 2%;
-    background-color: #337a5bed;
+    background-color: #21583fc9;
     z-index: -1;
 }
 .p7-contant1:hover::after ,.p7-contant2:hover::after,.p7-contant3:hover::after{
