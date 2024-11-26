@@ -166,11 +166,9 @@ border-radius: 20px;
     margin-bottom: 70px;
     margin-top: 70px;
 }
-/* .part2{
-    height: 60vh;
-    padding-top: 1%;
-} */
+
 .part2 h2{
+    font-size: 26px;
     text-align: center;
     margin-top: 50px;
 }
@@ -282,6 +280,7 @@ border-radius: 20px;
     text-align: center;
     /* padding: 20px 0px; */
     padding-top: 20px;
+    font-size: 26px;
 }
 
 .p3-parent1-gallary {
@@ -572,11 +571,12 @@ border-radius: 20px;
 }
 .p7pricing h2{
     text-align: center;
+    font-size: 27px;
 
 }
 .p7line{
     width: 100px;
-    height: 5px;
+    height: 4px;
     background-color: #21583f;
     margin: auto;
     margin-top: 5px;
@@ -725,6 +725,7 @@ border-radius: 20px;
 }
 .p8-details h2 {
     margin-bottom: 8px;
+    
 }
 .p8-desc {
     clear: both;
@@ -739,6 +740,7 @@ border-radius: 20px;
 .p9-title{
     text-align: center;
     margin-bottom: 2px;
+    font-size: 27px;
 }
 .p9-line{
     width: 80px;
@@ -849,6 +851,7 @@ border-radius: 20px;
 .p10-title{
     text-align: center;
     margin-bottom: 2px;
+    font-size: 27px;
 
 }
 .p10-line{
